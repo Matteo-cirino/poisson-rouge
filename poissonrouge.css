@@ -97,7 +97,7 @@ img{
 ul{
 
     display: flex;
-    background-color: white;
+    background-color: wheat;
     padding: 10px;
     gap: 50px;
     justify-content: space-around;
